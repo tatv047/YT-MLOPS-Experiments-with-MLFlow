@@ -18,8 +18,8 @@ y = wine.target
 X_train,X_test,y_train,y_test = train_test_split(X,y,test_size=0.10,random_state=42)
 
 # define the model
-max_depth = 5
-n_estimators = 20
+max_depth = 10
+n_estimators = 10
 
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth,

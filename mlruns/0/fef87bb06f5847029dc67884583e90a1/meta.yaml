@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fef87bb06f5847029dc67884583e90a1/artifacts
+end_time: 1741775175347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fef87bb06f5847029dc67884583e90a1
+run_name: brawny-sow-237
+run_uuid: fef87bb06f5847029dc67884583e90a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741775175135
+status: 3
+tags: []
+user_id: HP

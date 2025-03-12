@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e5122164c324412b82508c52e834e332/artifacts
+end_time: 1741774916575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5122164c324412b82508c52e834e332
+run_name: kindly-panda-174
+run_uuid: e5122164c324412b82508c52e834e332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741774916216
+status: 3
+tags: []
+user_id: HP
