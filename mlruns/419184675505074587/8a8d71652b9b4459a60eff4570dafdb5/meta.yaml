@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/Youtube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/419184675505074587/8a8d71652b9b4459a60eff4570dafdb5/artifacts
+end_time: 1741878000296
+entry_point_name: ''
+experiment_id: '419184675505074587'
+lifecycle_stage: active
+run_id: 8a8d71652b9b4459a60eff4570dafdb5
+run_name: ambitious-sloth-50
+run_uuid: 8a8d71652b9b4459a60eff4570dafdb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741878000167
+status: 3
+tags: []
+user_id: HP

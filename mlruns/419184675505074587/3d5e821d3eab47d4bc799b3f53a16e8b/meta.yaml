@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/Youtube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/419184675505074587/3d5e821d3eab47d4bc799b3f53a16e8b/artifacts
+end_time: 1741877999560
+entry_point_name: ''
+experiment_id: '419184675505074587'
+lifecycle_stage: active
+run_id: 3d5e821d3eab47d4bc799b3f53a16e8b
+run_name: vaunted-bass-251
+run_uuid: 3d5e821d3eab47d4bc799b3f53a16e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741877999420
+status: 3
+tags: []
+user_id: HP

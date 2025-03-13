@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/Youtube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/419184675505074587/b121a99514074801b02c608dc0ddb8fc/artifacts
+end_time: 1741878000684
+entry_point_name: ''
+experiment_id: '419184675505074587'
+lifecycle_stage: active
+run_id: b121a99514074801b02c608dc0ddb8fc
+run_name: agreeable-ram-711
+run_uuid: b121a99514074801b02c608dc0ddb8fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741878000588
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/Youtube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/419184675505074587/261d72dc96ed4a91ae53c6d06caa480e/artifacts
+end_time: 1741877999723
+entry_point_name: ''
+experiment_id: '419184675505074587'
+lifecycle_stage: active
+run_id: 261d72dc96ed4a91ae53c6d06caa480e
+run_name: rebellious-hound-170
+run_uuid: 261d72dc96ed4a91ae53c6d06caa480e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741877999576
+status: 3
+tags: []
+user_id: HP
