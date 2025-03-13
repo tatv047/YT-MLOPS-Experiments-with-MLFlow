@@ -19,11 +19,7 @@ X_train,X_test,y_train,y_test = train_test_split(X,y,test_size=0.10,random_state
 
 # define the model
 max_depth = 10
-n_estimators = 5
-
-# Mention your experiment below
-mlflow.set_experiment('YT-MLOPS-Exp1')
-
+n_estimators = 10
 
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth,
@@ -52,11 +48,4 @@ with mlflow.start_run():
     # Log artifacts using mlflow
     mlflow.log_artifact("Confusion_matrix.png")
     mlflow.log_artifact(__file__)
-
-    # tags
-    mlflow.set_tags({"Author":"Dev","Project":"Wine Classification"})
-
-    # Log the Model
-    mlflow.sklearn.log_model(rf,"Random Forest Model")
-
     print(accuracy)

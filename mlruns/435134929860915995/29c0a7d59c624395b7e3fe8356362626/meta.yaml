@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/435134929860915995/29c0a7d59c624395b7e3fe8356362626/artifacts
+end_time: 1741862447902
+entry_point_name: ''
+experiment_id: '435134929860915995'
+lifecycle_stage: active
+run_id: 29c0a7d59c624395b7e3fe8356362626
+run_name: resilient-shoat-130
+run_uuid: 29c0a7d59c624395b7e3fe8356362626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741862418271
+status: 3
+tags: []
+user_id: HP

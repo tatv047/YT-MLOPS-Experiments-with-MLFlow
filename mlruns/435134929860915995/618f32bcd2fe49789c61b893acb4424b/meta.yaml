@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/435134929860915995/618f32bcd2fe49789c61b893acb4424b/artifacts
+end_time: 1741860256062
+entry_point_name: ''
+experiment_id: '435134929860915995'
+lifecycle_stage: active
+run_id: 618f32bcd2fe49789c61b893acb4424b
+run_name: legendary-boar-196
+run_uuid: 618f32bcd2fe49789c61b893acb4424b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741860255110
+status: 3
+tags: []
+user_id: HP

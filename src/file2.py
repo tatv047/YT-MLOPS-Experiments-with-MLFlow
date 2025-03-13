@@ -1,3 +1,4 @@
+
 import mlflow
 import mlflow.sklearn
 from sklearn.datasets import load_wine
@@ -7,7 +8,10 @@ from sklearn.metrics import accuracy_score,confusion_matrix
 import matplotlib.pyplot as plt 
 import seaborn as sns
 
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
+import dagshub
+dagshub.init(repo_owner='devutkarsh047', repo_name='YT-MLOPS-Experiments-with-MLFlow', mlflow=True)
+
+mlflow.set_tracking_uri("https://dagshub.com/devutkarsh047/YT-MLOPS-Experiments-with-MLFlow.mlflow")
 
 # load wine data
 wine = load_wine()
@@ -18,11 +22,14 @@ y = wine.target
 X_train,X_test,y_train,y_test = train_test_split(X,y,test_size=0.10,random_state=42)
 
 # define the model
-max_depth = 10
+# max_depth = 10
+# n_estimators = 5
+max_depth = 8
 n_estimators = 5
 
 # Mention your experiment below
-mlflow.set_experiment('YT-MLOPS-Exp1')
+# mlflow.set_experiment('YT-MLOPS-Exp1')
+mlflow.set_experiment('YT-MLOPS-Exp2')
 
 
 with mlflow.start_run():
